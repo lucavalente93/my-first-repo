@@ -9,7 +9,3 @@
 Tenho um conhecimento básico de **HTML, CSS, Python e JavaScript** através de outros bootcamps, mas agora decidi me aprofundar metodicamente em cada uma das duas linguagens de programação citadas acima (e por que não outras futuramente?), começando com JS [nesse curso](https://www.dio.me/bootcamp/impulso-fullstack-developer) Full Stack Developer da **DIO**! :man_technologist:
 
 Espero tirar o máximo proveito desse bootcamp e agregar mais conhecimento para os próximos anos da faculdade. :thumbsup:
-
-
-
-![beepbeep](C:\workspace\first-repo-ever\beepbeep.jpg)
